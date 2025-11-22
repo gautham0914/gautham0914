@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif" width="300">
+  <img src="https://raw.githubusercontent.com/gautham0914/gautham0914/main/gautham_banner.png" width="100%" />
 </p>
+
 
 <h1 align="center">Hello👋 I'm Gautham!</h1>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=21&duration=3000&pause=500&color=401AF7&background=D4CD2300&center=true&width=500&lines=A+DATA+ANALYST+%26+ETL+ENGINEER!+📊;A+BUSINESS+ANALYST!+💼;FOUNDER+OF+MINDARC+%26+ZHOE!+🚀;A+FOREX+TRADER+📈💰📊;A+LEARNER!+📚" alt="Typing SVG" /></a> </p>
-<p align="center">
-  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9afe0493484903.5e66500f8dea4.gif" width="300">
-</p>
+<img src="[https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif]" >
+
 
 <p align="left">
   🎓 MS in Business Analytics (Rutgers University) <br>
