@@ -36,3 +36,6 @@
     <img src="https://img.shields.io/badge/Portfolio-gauthamgongada.com-black?style=flat-square&logo=firefox&logoColor=white" />
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gautham0914/gautham0914/main/github-user-contribution.svg" width="100%" />
+</p>
