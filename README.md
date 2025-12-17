@@ -13,7 +13,6 @@
 
 <p align="left">
   🎓 MS in Business Analytics (Rutgers University) <br>
-  🔭 Currently building <strong>MindArc</strong> (EdTech) & ZHOE (Sneaker Brand) <br>
   🧠 I love solving business problems with Python, SQL, and Dashboards <br>
   📈 Working on a full 14-Day Data Engineering Project (ETL → Postgres → API → Tableau) <br>
   📝 I share insights on <a href="https://linkedin.com/in/gauthamgongada">LinkedIn</a>
